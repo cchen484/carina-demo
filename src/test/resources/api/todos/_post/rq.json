@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  <#if todo??>"todo": "${todo}", </#if>,
+  "completed": true,
+  "userId": 26
+}
